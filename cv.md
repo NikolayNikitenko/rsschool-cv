@@ -22,3 +22,12 @@ Programming is very interesting to me. A great desire to gain as much knowledge 
 * CSS (Basic)
 * Markdown (Basic)
 
+## Experience
+no experience
+
+## Education
+
+Southern Federal University: Physical Education
+
+## English
+A1 (But once, while drunk, I calmly communicated with an Iranian through Google translator)))
