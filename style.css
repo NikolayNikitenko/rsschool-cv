@@ -1,6 +1,67 @@
-body {
-    background-color: #121B20; color: #A2ABA3;
+header {
+    background-color: #505B50;
+}
 
-    font-size: 16px;
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 50px;
+}
+
+ul li {
+    float: left;
+}
+
+ul li a {
+   color: #D9D9CA; 
+   display: block;
+   height: 50px;
+   padding: 0 30px;
+   text-transform: uppercase;
+   text-decoration: none;
+   line-height: 50px;
+}
+ul li a: hover {
+    background: ;
+}
+
+
+body {
+    background-color: #0B1D27;
+    
+}
+
+main {
+    background-color: #9DB0A0; color: #0B1D27;
+
+    font-size: 24px;
     font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0 30px;
+
+}
+
+.avatar {
+    width: 350px;
+   
+    padding: 30px 0px;
+  
+}
+
+.Contacts {
+    display: block;
+    margin-bottom: 40px;
+
+}
+
+
+footer{
+    background-color: #505B50;
+    height: 50px;
+    padding: 0 10px;
+    line-height: 50px;
+    display: block;
+    
+    
 }
