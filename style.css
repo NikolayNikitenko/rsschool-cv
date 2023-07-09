@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Inika:wght@400;700&family=Inter:wght@300;400;700&display=swap");
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.section-outer {
+  max-width: 1400px;
+  margin: auto;
+}
+
+.section-inner {
+  max-width: 1227px;
+  margin: 0 auto;
+}
+
+.section-header {
+  background-color: #EDF2EC;
+}
+.section-header .section-inner {
+  padding: 0;
+}
+
+.main-navigation {
+  display: flow-root;
+  height: 50px;
+  width: 100%;
+}
+
+.nav-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  padding-left: 0px;
+}
+.nav-wrapper .item .link {
+  font-family: "Inika", serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #010201;
+  text-decoration: none;
+}
+.nav-wrapper .item .link:hover {
+  text-shadow: 1px 1px 1px #E06733;
+  color: #E06733;
+  transition: 0.2s;
+}
+
+.section-main {
+  background-color: #EDF2EC;
+  padding: 20px 0;
+}
+
+.main-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+}
+
+.avatar {
+  width: 418px;
+  height: 269px;
+}
+
+.icon-avatar h1 {
+  font-weight: 700;
+  font-size: 40px;
+  color: #010201;
+}
+
+.contacts {
+  padding-top: 14px;
+}
+.contacts h2 {
+  font-weight: 700;
+  font-size: 30px;
+  color: #010201;
+}
+
+.contacts-link {
+  list-style: none;
+  text-decoration: none;
+  color: #717171;
+}
+.contacts-link:hover {
+  text-shadow: 1px 1px 1px #E06733;
+  color: #E06733;
+  transition: 0.2s;
+}
+
+.primary-text {
+  text-align: center;
+  margin-left: 170px;
+  margin-top: 50px;
+}
+
+.about-me {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 150px;
+}
+
+.section-footer {
+  background-color: #EDF2EC;
+  padding: 20px 0;
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-wrapper p {
+  font-weight: 700;
+}
+
+.contacts-link-footer {
+  margin: 0 20px;
+  list-style: none;
+  text-decoration: none;
+  font-weight: 700;
+  color: #717171;
+}
+.contacts-link-footer:hover {
+  text-shadow: 1px 1px 1px #E06733;
+  color: #E06733;
+  transition: 0.2s;
+}
+
+.logo-school {
+  width: 60px;
+  height: 30px;
+}/*# sourceMappingURL=style.css.map */
